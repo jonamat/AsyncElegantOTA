@@ -166,5 +166,4 @@ class AsyncElegantOtaClass{
 
 };
 
-AsyncElegantOtaClass AsyncElegantOTA;
 #endif
